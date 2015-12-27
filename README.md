@@ -16,7 +16,7 @@ Dowload and import [SimplePopup_v1.1.unitypackage](https://github.com/tuncertirn
   ```
 
 3. You can show your popup easily like that:
-```unity
+  ```unity
         SimplePopupManager.Instance.CreatePopup("Are you sure you want to quit?");
         SimplePopupManager.Instance.AddButton("Yes", delegate { Debug.Log("clicked on yes"); });
         SimplePopupManager.Instance.AddButton("No", delegate { Debug.Log("clicked on no"); });
