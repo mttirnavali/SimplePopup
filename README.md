@@ -1,9 +1,12 @@
 # SimplePopup
 SimplePopup is a tool to show popups(dialogs) in Unity. It can be useful while creating prototypes.
+
 # Requirements
 * Unity 5
+
 # Installation
 Dowload and import [SimplePopup_v1.1.unitypackage](https://github.com/tuncertirnavali/SimplePopup/raw/master/SimplePopup_v1.1.unitypackage) to your project.
+
 # Usage
 1. Drag and Drop `SimplePopupManager.prefab` from `Assets/SimplePopup/SimplePopupManager` to your scene.
 2. At top of your file,
